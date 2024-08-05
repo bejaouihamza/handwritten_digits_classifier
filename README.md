@@ -1,0 +1,1 @@
+I would like to extend my gratitude to the IBM course "Introduction to Deep Learning & Neural Networks with Keras" for providing invaluable knowledge and resources. This course played a significant role in helping me achieve this project.
